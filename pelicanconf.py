@@ -7,6 +7,9 @@ SITENAME = 'The Test Site'
 SITEURL = ''
 
 PATH = 'content'
+PAGES_PATHS = ['pages']
+ARTICLE_PATHS = ['pages/articles']
+ 
 
 TIMEZONE = 'Europe/Helsinki'
 
