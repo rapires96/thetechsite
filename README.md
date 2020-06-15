@@ -14,4 +14,10 @@ sudo pelican content
 
 References:
 
+https://www.nginx.com/
+
+https://getpelican.com/
+
+https://github.com/zutrinken/attila
+
 https://solar.lowtechmagazine.com/2020/01/how-sustainable-is-a-solar-powered-website.html
