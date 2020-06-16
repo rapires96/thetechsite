@@ -9,7 +9,7 @@ SITEURL = ''
 PATH = 'content'
 PAGES_PATHS = ['pages']
 ARTICLE_PATHS = ['pages/articles']
- 
+THEME = 'attila'
 
 TIMEZONE = 'Europe/Helsinki'
 
